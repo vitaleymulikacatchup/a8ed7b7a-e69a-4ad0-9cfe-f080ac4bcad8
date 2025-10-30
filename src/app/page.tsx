@@ -36,7 +36,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Experience Luxury Redefined Hotel"
+          title="Experience Luxury Redefined Hotel Hotel"
           description="Indulge in unparalleled elegance at Grand Luxe Hotel, where every detail is crafted for your ultimate comfort and sophistication."
           tag="5-Star Excellence"
           tagIcon={Crown}
